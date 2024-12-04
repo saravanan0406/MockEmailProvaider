@@ -22,8 +22,8 @@ Setup Instructions
 Clone this repository:
 
 bash
-git clone https://github.com/your-username/robust-email-service.git
-cd robust-email-service
+git clone https://github.com/saravanan0406/MockEmailProvaider.git
+
 Install any required dependencies (if applicable):
 
 bash
